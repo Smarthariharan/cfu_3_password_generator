@@ -12,7 +12,6 @@ function charLength() {
 document.getElementById('length').addEventListener('change', charLength)
 
 
-
 const resultEl = document.getElementById('result')
 const lengthEl = document.getElementById('length') 
 const uppercaseEl = document.getElementById('uppercase')
